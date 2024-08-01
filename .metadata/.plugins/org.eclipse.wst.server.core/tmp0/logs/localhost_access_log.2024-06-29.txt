@@ -1,0 +1,9 @@
+127.0.0.1 - - [29/Jun/2024:22:38:07 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [29/Jun/2024:22:38:08 +0530] "GET /CalculatorServlet/index.html HTTP/1.1" 200 305
+0:0:0:0:0:0:0:1 - - [29/Jun/2024:22:38:21 +0530] "GET /CalculatorServlet/Add.html HTTP/1.1" 200 350
+0:0:0:0:0:0:0:1 - - [29/Jun/2024:22:39:08 +0530] "GET /CalculatorServlet/addNumbers?num1=278&num2=49 HTTP/1.1" 200 29
+0:0:0:0:0:0:0:1 - - [29/Jun/2024:23:23:14 +0530] "GET /CalculatorServlet/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [29/Jun/2024:23:23:16 +0530] "GET /CalculatorServlet/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [29/Jun/2024:23:23:17 +0530] "GET /CalculatorServlet/Add.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [29/Jun/2024:23:23:21 +0530] "GET /CalculatorServlet/addNumbers?num1=&num2= HTTP/1.1" 500 1247
+0:0:0:0:0:0:0:1 - - [29/Jun/2024:23:23:37 +0530] "GET /CalculatorServlet/addNumbers?num1=34&num2=30 HTTP/1.1" 200 28

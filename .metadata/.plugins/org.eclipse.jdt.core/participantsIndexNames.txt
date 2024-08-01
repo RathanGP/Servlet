@@ -1,0 +1,19 @@
+INDEX VERSION 1.134
+C:\Users\PURUSHOTHAM\Desktop\Servlets\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2833589560.index
+\sample\src\main\resources
+C:\Users\PURUSHOTHAM\Desktop\Servlets\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1706773662.index
+\Servlet_Employee\src\main\resources
+C:\Users\PURUSHOTHAM\Desktop\Servlets\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\781106375.index
+\Servlet_Studentddb\src\main\java
+C:\Users\PURUSHOTHAM\Desktop\Servlets\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2814133553.index
+\Servlet_Calculator\src\main\java
+C:\Users\PURUSHOTHAM\Desktop\Servlets\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\99980412.index
+\crud\src\main\java
+C:\Users\PURUSHOTHAM\Desktop\Servlets\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\742054730.index
+\Employee\src\main\resources
+C:\Users\PURUSHOTHAM\Desktop\Servlets\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\833971360.index
+\demo\src\main\resources
+C:\Users\PURUSHOTHAM\Desktop\Servlets\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2271741408.index
+\Calculator_servlet\src\main\resources
+C:\Users\PURUSHOTHAM\Desktop\Servlets\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2963505642.index
+\Servlet_MobileDB\src\main\resources

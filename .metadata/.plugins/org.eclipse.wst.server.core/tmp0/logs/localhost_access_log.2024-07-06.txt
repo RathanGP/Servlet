@@ -1,0 +1,11 @@
+127.0.0.1 - - [06/Jul/2024:00:06:21 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [06/Jul/2024:00:08:22 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [06/Jul/2024:00:08:25 +0530] "GET /Servlet_MobileDB/index.jsp HTTP/1.1" 200 279
+0:0:0:0:0:0:0:1 - - [06/Jul/2024:00:08:25 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [06/Jul/2024:00:08:29 +0530] "GET /Servlet_MobileDB/DisplayMobile HTTP/1.1" 200 1062
+127.0.0.1 - - [06/Jul/2024:23:58:37 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [06/Jul/2024:23:58:41 +0530] "GET /Servlet_Employee/index.jsp HTTP/1.1" 200 251
+0:0:0:0:0:0:0:1 - - [06/Jul/2024:23:58:49 +0530] "GET /Servlet_Employee/index.jsp HTTP/1.1" 200 251
+0:0:0:0:0:0:0:1 - - [06/Jul/2024:23:58:52 +0530] "GET /Servlet_Employee/index.jsp HTTP/1.1" 200 251
+0:0:0:0:0:0:0:1 - - [06/Jul/2024:23:59:09 +0530] "GET /Servlet_Employee/index.jsp HTTP/1.1" 200 258
+0:0:0:0:0:0:0:1 - - [06/Jul/2024:23:59:11 +0530] "GET /Servlet_Employee/add.jsp HTTP/1.1" 405 751
